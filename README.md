@@ -1,1 +1,1 @@
-- Learn to build responsive websites and recreate with HTML CSS and JavaScript.
+- Learn to build responsive websites and recreate with HTML CSS and JavaScript | Dark/Light Mode from scratch.
